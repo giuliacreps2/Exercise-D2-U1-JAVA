@@ -26,8 +26,6 @@ public class SwitchE3 {
 				break; // Se il default è messo per ultimo il break è opzionale
 			}
 
-
-
         }
 
     }
