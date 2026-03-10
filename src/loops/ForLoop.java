@@ -17,6 +17,6 @@ public class ForLoop {
     } else {
         System.out.println("è tutto pronto per il countdown");
         }
-    for(int i = 0; i < numero.length; )
+    //for(int i = 0; i < numero.length; )
 }
 }
